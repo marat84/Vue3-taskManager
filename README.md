@@ -1,19 +1,28 @@
 # vue-test1
 
-## Project setup
+## Установка проекта
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Для запуска проекта в режиме разработки
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Для запуска проекта в прод
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Для backend (json-server) сервера 
+```
+npm run backend
+```
+
+### Видео туториала по которому был написан проект
+[Vue JS Crash Course 2021](https://www.youtube.com/watch?v=qZXt1Aom3Cs). Learn the fundamentals of Vue JS (v3) in this project-based crash course
+
+---
+
+[Документация по VUE3](https://v3.ru.vuejs.org/ru/guide/introduction.html).
